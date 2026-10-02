@@ -1,0 +1,46 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Francisco Escolero — Senior Backend and AI Engineer</title>
+  <desc id="desc">Backend systems. Applied intelligence. A navy and mint engineering diagram connects APIs, data, and AI to products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f30"/><stop offset="1" stop-color="#080e19"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#79eac3"/><stop offset="1" stop-color="#87baff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a2bfd9" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+  <path d="M20 0H1180" stroke="url(#accent)" stroke-width="3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="48" y="38" width="44" height="44" rx="12" fill="#79eac3"/>
+    <text x="70" y="67" text-anchor="middle" fill="#0c1a24" font-size="20" font-weight="800">FE</text>
+    <text x="108" y="57" fill="#edf3f9" font-size="17" font-weight="650">FRANCISCO ESCOLERO</text>
+    <text x="108" y="78" fill="#8fa6ba" font-size="12" letter-spacing="1.6">SENIOR BACKEND &amp; AI ENGINEER</text>
+    <text x="48" y="174" fill="#f4f7fb" font-size="51" font-weight="750" letter-spacing="-1.6">Backend systems.</text>
+    <text x="48" y="235" fill="#79eac3" font-size="51" font-weight="750" letter-spacing="-1.6">Applied intelligence.</text>
+    <text x="50" y="280" fill="#a5b6c7" font-size="18">Connecting APIs, data, and AI to real products.</text>
+    <g font-family="Consolas, monospace" font-size="13" fill="#c8d9e9">
+      <rect x="48" y="311" width="87" height="30" rx="6" fill="#142839" stroke="#294152"/><text x="91" y="331" text-anchor="middle">Python</text>
+      <rect x="145" y="311" width="96" height="30" rx="6" fill="#142839" stroke="#294152"/><text x="193" y="331" text-anchor="middle">Node.js</text>
+      <rect x="251" y="311" width="109" height="30" rx="6" fill="#142839" stroke="#294152"/><text x="305" y="331" text-anchor="middle">LLM APIs</text>
+    </g>
+    <path d="M48 370H1152" stroke="#243447"/>
+    <text x="48" y="405" fill="#9fb1c4" font-size="13" letter-spacing="1">8 YEARS IN SOFTWARE</text>
+    <text x="600" y="405" text-anchor="middle" fill="#9fb1c4" font-size="13" letter-spacing="1">CALIFORNIA, USA</text>
+    <text x="1152" y="405" text-anchor="end" fill="#9fb1c4" font-size="13" letter-spacing="1">ENGLISH + SPANISH</text>
+  </g>
+  <g fill="none" stroke="#34566b" stroke-width="2">
+    <path d="M850 150H882Q896 150 896 164V220H936"/>
+    <path d="M850 220H936"/>
+    <path d="M850 290H882Q896 290 896 276V220"/>
+    <path d="M1116 220H1145" stroke="#79eac3"/>
+  </g>
+  <g font-family="Consolas, monospace" font-size="15" text-anchor="middle">
+    <rect x="738" y="125" width="112" height="50" rx="10" fill="#112233" stroke="#365267"/><text x="794" y="156" fill="#bdccdb">API</text>
+    <rect x="738" y="195" width="112" height="50" rx="10" fill="#112233" stroke="#365267"/><text x="794" y="226" fill="#bdccdb">DATA</text>
+    <rect x="738" y="265" width="112" height="50" rx="10" fill="#112b30" stroke="#4a9e8b"/><text x="794" y="296" fill="#79eac3">AI</text>
+    <rect x="936" y="172" width="180" height="96" rx="14" fill="#132b33" stroke="#79eac3" stroke-opacity=".8"/>
+    <text x="1026" y="214" fill="#effaf7" font-size="18" font-weight="700">PRODUCT</text>
+    <text x="1026" y="240" fill="#89b1ae" font-size="12">built to connect</text>
+  </g>
+  <circle cx="896" cy="220" r="5" fill="#79eac3"/>
+  <circle cx="1145" cy="220" r="4" fill="#79eac3"/>
+</svg>
